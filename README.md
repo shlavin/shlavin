@@ -7,8 +7,8 @@
 - <b> Practicing AI - Workflows</b>
   - [Jupyter Notebook focused on preprocessing, cleaning, and visualizing health-related data. ](https://github.com/shlavin/AI-workflows)
 
-<h2>👨‍💻 AI & ML Projects :</h2>
-- <b>Charity Website</b>
+<h2>👨‍💻 Web Development Projects :</h2>
+- <b>Charity Website ( ongoing) </b>
 
 
 <h2> 🤳 Connect with me:</h2>
