@@ -7,11 +7,13 @@
 - <b> Practicing AI - Workflows</b>
   - [Jupyter Notebook focused on preprocessing, cleaning, and visualizing health-related data. ](https://github.com/shlavin/AI-workflows)
 
+<h2>👨‍💻 AI & ML Projects :</h2>
+- <b>Charity Website</b>
 
 
 <h2> 🤳 Connect with me:</h2>
 
-
+Reach out via Email : nyamburawahu16@gmail.com
 [<img align="left" alt="ShayaniKahumu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
