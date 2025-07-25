@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Shayani Kahumu! <br/><a href="https://github.com/joshmadakor1">AI & Machine Learning Enthusiast</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Web developer</a>, 
 
-<!--
-**shlavin/shlavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 AI & ML Projects :</h2>
 
-Here are some ideas to get you started:
+- <b>Rafiki Mental Wellness Chatbot Development</b>
+  - [Developed a mental health support chatbot for university students using Python, Django, React, and Hugging Face Transformers, Integrated NLP for Emotion Detection](https://github.com/shlavin/project)
+- <b> Practicing AI - Workflows</b>
+  - [Jupyter Notebook focused on preprocessing, cleaning, and visualizing health-related data. ](https://github.com/shlavin/AI-workflows)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="ShayaniKahumu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/shayani-kahumu-267983260/
+
