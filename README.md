@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shayani Kahumu! <br/><a href="https://github.com/joshmadakor1">AI & Machine Learning Enthusiast</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Web developer</a>, 
+<h1>Hi, I'm Shayani Kahumu! <br/><a href="https://github.com/joshmadakor1">AI & Machine Learning Enthusiast</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Web developer</a>
 
 <h2>👨‍💻 AI & ML Projects :</h2>
 
