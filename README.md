@@ -9,7 +9,7 @@
 
 <h2>👨‍💻 Web Development Projects :</h2>
 - <b> Charity Website ( ongoing) </b>
-  - [Volunteering to make a website for a small charity organization using react , tailwind css ](https://github.com/shlavin/project)
+  - [Volunteering to make a website for a small charity organization using react , tailwind css ](https://github.com/shlavin/charity-website)
 
 
 <h2> 🤳 Connect with me:</h2>
